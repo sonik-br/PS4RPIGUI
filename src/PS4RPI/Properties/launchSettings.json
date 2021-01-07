@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PS4RPI": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
